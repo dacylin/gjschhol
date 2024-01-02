@@ -13,4 +13,4 @@
 
 [google](https://www.google.com.tw/)
 [text](/作業_解答.pdf)
-![照片](/images)
+![照片](/images/member.jpg)
